@@ -1,0 +1,36 @@
+#banner {
+  background-image: url('./backgroundPhotos/nearby_logo_3.png');
+  background-size: content;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  position: absolute;
+  width: 400%;
+  height: 600px;
+  text-align: center;
+  margin:0;
+  padding:0;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}
+
+
+#search {
+  margin-top: 500px;
+  margin-left: 340px;
+}
+
+.btn, input[type=text] {
+  width: 500px;
+  background-color: #ffa300;
+  color: white;
+  padding: 12px 18px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 22px;
+}
+
+
+
